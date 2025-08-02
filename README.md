@@ -15,6 +15,7 @@ Salut, moi c’est **Ewalwi**, lycéen passionné par le **développement web**,
 
 ## 🚀 Projets marquants
 
+- ✨ **Fondateur de Cypher Vision** <img src="https://cv-firewall.vercel.app/images/Cypher%20Vision.png" alt="Description de l'image" width="20" style="border:none; border-radius: 6px;"/>
 - 🎓 **Contributeur - [École Directe Plus](https://ecole-directe.plus/)** : amélioration de l’expérience utilisateur
 - 🤖 Bots Discord : modération, jeux, outils automatisés
 - 📦 Scripts Python : automatisation, scraping, mini-API perso
